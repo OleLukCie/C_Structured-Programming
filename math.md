@@ -1,5 +1,6 @@
 gcc -DNDEBUG math.c
 ------------------------------------------
+a.exe
 
 Read in 2 floats:
 7   0
